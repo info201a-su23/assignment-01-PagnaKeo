@@ -8,17 +8,22 @@ pwd
 
 # (2) List the files in your current directory [1 point]
 ls
+
 # (3) Change your directory to a folder in which you do work for this class (if you haven't created such a folder, please do so now — perhaps titled "INFO201") [1 point]
-mkdir<PATH>
-cd
+cd INFO 201
+
 # (4) Clone your assignment repository from GitHub to your machine/computer [1 point]
-Git Clone<Repo_URL>
+Git Clone https://github.com/info201a-su23/assignment-01-PagnaKeo
+
 # (5) Using a *relative path*, change your directory to inside the repository you just cloned [1 point]
-cd<PATH>
+cd assignment-01-PagnaKeo
+
 # (6)  What is the *absolute path* of the image file "covid-example-2.png"? (You can answer the absolute path on your own computer, or the absolute path only within the GitHub repository) [1 points]
-cat[FILENAME]
+users/PagnaKeo/Desktop/assignment-01-PagnaKeo/images/covid-19-visualizations/covid-example-2.png 
+
 # (7) Add all of the changes that you've made to this file with git [1 point]
 Git add[FILENAME]
+
 # (8) Commit these changes, and include a *descriptive message* [2 points]
 Git commit
 # (9) Finally, push your changes to GitHub [1 point]
