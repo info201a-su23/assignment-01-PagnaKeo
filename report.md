@@ -3,6 +3,8 @@
 *07/11/2023*
 ## Data Viz Summary
 ![Redlining Map](https://github.com/info201a-su23/assignment-01-PagnaKeo/assets/137957363/ecb3c759-8b78-4142-baf4-e16524e70d20)
+[Mapping Inequlaites](https://dsl.richmond.edu/panorama/redlining/#loc=5/39.1/-94.58&text=downloads)
+
 This is a map of the redlining communities in Detroit in 1939, where the colored-in area indicated the type of risk that would be involved if a person belonged to that area of the city. Due to housing discrimination and other systematic issues in the past, we forced people of color into certain areas of the city. While whites were able to live wherever they wished. With this information, banks and loan offices traced the area in which blacks and other people of color lived, indicating the areas that had a "risk", in terms of loaning out money to them or the likeliness that they will pay back their loans. This led to discriminating against people of color and ultimately segregating colored people from whites. This was their way of evaluating risk back days, as stated in the text 
 >"These high-tech, scalable “solutions” were deployed across the nation, and they were one method among many that worked to ensure that wealth remained attached to the racial category of whiteness. At the same time that these maps were being made, the insurance industry, for example, was implementing similar data-driven methods for granting (or denying) policies to customers based on their demographics."
 
